@@ -31,17 +31,21 @@ Will Jean-Claude eventually find his happiness? Or at least peace? It depends on
 - Глоссарий, галерея, система репутации и навыков;
 - Можно умереть, если сделать неосторожный выбор.
 
-## Screenshots
+## Screenshots / Скриншоты
 
 Coming soon.
 
-## How to play
+## Gameplay / Геймплей
+
+[![A Paris ball](https://img.youtube.com/vi/7Hl0U2gRz2I/maxresdefault.jpg)](https://youtu.be/7Hl0U2gRz2I)
+
+## How to play / Как играть
 
 **For non-Russian speaking players:** Start the game and choose "Настройки" in the main menu to switch the language to English.
 
-## Links
+## Links / Ссылки
 
-[Play web version](https://alexkolmar.github.io/games/eternalveil/eternalveil-1.5-web/index.html)
+[Play web version / Играть в веб-версию](https://alexkolmar.github.io/games/eternalveil/eternalveil-1.5-web/index.html)
 
 ## License
 
