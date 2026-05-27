@@ -1,6 +1,6 @@
 # ETERNAL VEIL
 
-![Eternal Veil](screenshots/banner.jpg)
+![Eternal Veil](gui/banner.jpg)
 
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-8.3.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -43,9 +43,19 @@ Coming soon.
 
 **For non-Russian speaking players:** Start the game and choose "Настройки" in the main menu to switch the language to English.
 
+The gameplay can take time. Before exiting, you may save the game and export your saves, later you may import these saves and continue the game.
+
+====
+
+Игровой процесс может занять время. Перед выходом вы можете сохранить игру и сделать экспорт сохранений, чтобы впоследствии их можно было импортировать и продолжить игру.
+
 ## Links / Ссылки
 
-[Play web version / Играть в веб-версию](https://alexkolmar.github.io/games/eternalveil/eternalveil-1.5-web/index.html)
+**Play web version / Играть в веб-версию**
+
+[![Play online](gui/play.svg)](https://alexkolmar.github.io/games/eternalveil/eternalveil-1.5-web/index.html)
+
+[![Download on itch.io](gui/download.svg)](https://alexkolmar.github.io/games/eternalveil/eternalveil-1.5-web/index.html)
 
 ## License
 
