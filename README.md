@@ -2,8 +2,8 @@
 
 ![Eternal Veil](gui/banner.jpg)
 
-![Ren'Py](https://img.shields.io/badge/Ren'Py-8.3.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-8.4.0-blue)
+![Static Badge](https://img.shields.io/badge/version-1.52-red?labelColor=000&color=643434)
 
 This game tells the story of a young officer of the Napoleonic army, Jean-Claude Leroux.
 
@@ -33,13 +33,16 @@ Will Jean-Claude eventually find his happiness? Or at least peace? It depends on
 
 ## Screenshots / Скриншоты
 
-Coming soon.
+[![screenshot 1](gui\screenshots\preview1.jpg)](gui\screenshots\screenshot1.jpg)
+[![screenshot 2](gui\screenshots\preview2.jpg)](gui\screenshots\screenshot2.jpg)
+[![screenshot 3](gui\screenshots\preview3.jpg)](/gui\screenshots\screenshot3.jpg)
+[![screenshot 4](gui\screenshots\preview4.jpg)](gui\screenshots\screenshot4.jpg)
 
 ## Gameplay / Геймплей
 
 [**Смотреть на YouTube**](https://youtu.be/7Hl0U2gRz2I)
 
-[![A Paris ball](https://img.youtube.com/vi/7Hl0U2gRz2I/maxresdefault.jpg)](https://youtu.be/7Hl0U2gRz2I)
+[![A Paris ball](gui/ev_paris_ball.jpg)](https://youtu.be/7Hl0U2gRz2I)
 
 ## How to play / Как играть
 
@@ -55,7 +58,7 @@ The gameplay can take time. Before exiting, you may save the game and export you
 
 **Play web version / Играть в веб-версию**
 
-[![Play online](gui/play.svg)](https://alexkolmar.github.io/eternalveil/main/ev-1.5/index.html)
+[![Play online](gui/play.svg)](/main/ev-1.5/index.html)
 
 **Visit game page on itch.io / Посетить страницу игры на itch.io**
 
